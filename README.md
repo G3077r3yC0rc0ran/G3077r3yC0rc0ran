@@ -1,7 +1,7 @@
 - 👋 Hi, Geoff here.
 - 🌱 I’m currently learning Linux, & FE coding
 - 💞️ I’m looking to collaborate on learning by doing of FE coding tasks.
-- 📫 Pls feel free to reach me on G3077r3y.C0rc0ran@pm.me
+- 📫 Pls feel free to reach me on g.corcoran@cqu.edu.au
 
 <!---
 G3077r3yC0rc0ran/G3077r3yC0rc0ran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
